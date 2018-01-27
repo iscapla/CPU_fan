@@ -22,6 +22,9 @@ Content:
 	[Others]
 	verbose: 0
 
+Electronic Schema
+-----------------
+![alt text](./Fan_Schematic.png)
 
 
 More info
