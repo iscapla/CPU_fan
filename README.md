@@ -1,12 +1,17 @@
 # CPU_fan
 Code to implement a CPU cooler for the Raspberry Pi 3
 
+Project
+-------
+[Raspberry Pi fan cooler - Hackster.io](https://www.hackster.io/iscapla/raspberry-pi-fan-cooler-86f3f9)
+
 Installation
 ------------
-No extra packages are needed to run this program.
+No extra installed packages are needed to run this program.
 
 Possible configuration
 ----------------------
+Create a config.ini file in this direction. You can change it in the code.
 File: 
 
 	/home/pi/Programs/config.ini
